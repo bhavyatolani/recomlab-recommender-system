@@ -9,7 +9,8 @@ A Streamlit learning workspace for exploring recommender systems: upload user–
 ## Screenshots
 
 <!-- ADD SCREENSHOT 1 HERE: Overview tab after running the demo -->
-![Overview tab — add your screenshot here](screenshots/01-overview.png)
+![Overview tab — add your screenshot here](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b0b3504-aaee-4286-914c-40bed028fa55" />
+)
 
 <!-- ADD SCREENSHOT 2 HERE: Evaluation tab -->
 ![Evaluation tab — add your screenshot here](screenshots/02-evaluation.png)
